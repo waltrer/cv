@@ -1,4 +1,4 @@
 body {
     background-color: purple;
-    background-image: url(https://t4.ftcdn.net/jpg/03/14/81/65/240_F_314816591_yBAWvMvnpTW05AP0q4DCs5B6y2gnL9xA.jpg) width 80%;
+    background-image: url(https://t4.ftcdn.net/jpg/03/14/81/65/240_F_314816591_yBAWvMvnpTW05AP0q4DCs5B6y2gnL9xA.jpg) repeating-linear-gradient();
 }
