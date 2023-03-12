@@ -8,4 +8,7 @@ body container {
     color: lightgray;
     background: darkblue
 }
+footer {
+    position: fixed bottom;
+}
 
