@@ -10,7 +10,7 @@ body container {
 }
 img {
     width: 80%;
-    position: auto;
+    border-left: auto;
 }
 footer {
     position: fixed bottom;
