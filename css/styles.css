@@ -14,4 +14,6 @@ img {
 footer {
     position: fixed bottom;
 }
-
+div {
+    align-content: center;
+}
