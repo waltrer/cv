@@ -5,8 +5,8 @@ html {
 }
 
 container {
-    color: lightgray;
-    background: darkblue
+    position: relative;
+align-self: center;
 }
 img {
     width: 80%;
