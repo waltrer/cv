@@ -1,4 +1,7 @@
-html {
+header{
+    background-color: aliceblue;
+}
+body {
     background: rgb(235, 232, 213);
     background-size: 100%;
     background-position: center;
@@ -6,6 +9,10 @@ html {
 
 div {
     margin-left: 10%;
+}
+
+container {
+    background-color: rgba(0, 0, 0, 0);
 }
 
 img {
