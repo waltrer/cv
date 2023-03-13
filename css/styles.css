@@ -4,14 +4,14 @@ html {
     background-position: center;
 }
 
-container {
-    position: relative;
-align-self: center;
+div {
+    margin-left: 10%;
 }
+
 img {
     width: 80%;
-    border-left: auto;
 }
+
 footer {
     position: fixed bottom;
 }
