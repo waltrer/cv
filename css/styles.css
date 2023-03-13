@@ -8,6 +8,9 @@ body container {
     color: lightgray;
     background: darkblue
 }
+img {
+    width: 80%;
+}
 footer {
     position: fixed bottom;
 }
