@@ -10,13 +10,8 @@ body container {
 }
 img {
     width: 80%;
+    position: auto;
 }
 footer {
     position: fixed bottom;
-}
-div {
-    align-content: center;
-}
-.container {
-    align-content: center;
 }
